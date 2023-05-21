@@ -104,30 +104,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "김효주 Vivian"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : rlagywn815@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:rlagywn815@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://hyojutopia.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://twitter.com/Vivi_LuvHouse"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/rlagywn0899/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/Hyojutopia"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/Augustyvivi"
 
 # Site Footer
 footer:
@@ -290,3 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
