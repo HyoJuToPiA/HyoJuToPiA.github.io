@@ -23,7 +23,7 @@ name                     : "김효주 Vivian Kim"
 description              : "An amazing website."
 url                      : "https://Hyojutopia.github.io"
 baseurl                  : "https://Hyojutopia.github.io"
-repository               : "Hyojutopia/Hyojutopia.github.io"
+repository               : #"Hyojutopia/Hyojutopia.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
