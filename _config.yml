@@ -12,20 +12,22 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "VIVINOTE"
+title                    : "VIVINOTE "
+title_separator          : "|"
 subtitle                 : "비비안의 잡학노트"
 name                     : "김효주 Vivian Kim"
-description              : "An amazing website."
+description              : "Description"
 url                      : "https://Hyojutopia.github.io"
 baseurl                  : #"/blog"
 repository               : "Hyojutopia/Hyojutopia.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # f fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -288,6 +290,3 @@ defaults:
       comments: # true
       share: true
       related: true
-      show_date: true
-      date_format: "%Y-%m-%d"
-
